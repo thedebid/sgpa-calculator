@@ -1,0 +1,11 @@
+.credit{
+	width: 80% !important;
+	float: left;
+	font-size: 0.85em !important;
+}
+.cgpa_form{
+	width: 70%  !important;
+	float: right;
+	margin: 0px 0 1.5em 0 !important;
+	padding: 1em !important;
+}
